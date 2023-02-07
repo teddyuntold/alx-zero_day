@@ -1,1 +1,1 @@
-These hard things will get easier
+My first readme
