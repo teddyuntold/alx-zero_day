@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 git fetch --all
+=======
+git pull
+>>>>>>> 6ff1c3bd07027d14c1f8069f56f3084e43296a41
